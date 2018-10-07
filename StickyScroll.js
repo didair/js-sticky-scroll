@@ -72,4 +72,4 @@ class StickyScroll {
 	}
 }
 
-const StickyScroll = new StickyScroll();
+const sticky = new StickyScroll();

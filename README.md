@@ -11,7 +11,7 @@ multiple elements in one `.sticky` container.
 
 ### Known limitations
 1. No stop point is supported. Planned for implementation.
-2. No configuration is supported. Planned for implementation.
+2. No "real" configuration is supported. Planned for implementation. (Check demo for a simple work-around configuration)
 
 ### Demo
 Demo is located at [https://codepen.io/didair/pen/XxjvXx](https://codepen.io/didair/pen/XxjvXx).
